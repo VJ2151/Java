@@ -1,4 +1,4 @@
-package Assignments01;
+package Day01.Assignments01;
 import java.util.*;
 public class PrimeNumber {
     public boolean findPrimeNumber(int input) {

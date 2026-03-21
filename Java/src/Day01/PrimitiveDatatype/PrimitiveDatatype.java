@@ -1,3 +1,5 @@
+package Day01.PrimitiveDatatype;
+
 public class PrimitiveDatatype {
     public static void main(String[] args){
 //        int i = 5;

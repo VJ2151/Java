@@ -1,4 +1,4 @@
-package Array;
+package Day01.Array;
 
 public class ArrayHandling {
     public static void main(String[] args) {
