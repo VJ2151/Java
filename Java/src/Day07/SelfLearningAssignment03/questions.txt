@@ -1,0 +1,12 @@
+1.Throw Exception for Duplicate Integers
+Write a Java program that reads a list of integers
+from the user and throws an exception if any numbers
+are duplicates.
+
+2. Implement an e-commerce application with
+Collection and custom exception
+(Like - PaymentException, InventoryException,
+ShippingException)
+Provide User an experience to add different items in a Cart.
+User can add single or multiple item/s in a Cart and then checkout.
+If, Item/s get sold maintain its unit in inventory.Provide Statistical data like - number of Item get sold, quantity of an Item in inventory.
