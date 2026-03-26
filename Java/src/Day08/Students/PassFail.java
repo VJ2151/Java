@@ -10,7 +10,7 @@ public class PassFail {
     SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
     public void loadData() throws ParseException {
-        student.add(new StudentData(101, "Amit", sdf.parse("15/05/2005"), 85.5));
+        student.add(new StudentData(101, "vijay", sdf.parse("15/05/2005"), 85.5));
         student.add(new StudentData(102, "Sriya", sdf.parse("20/11/2004"), 35.0));
         student.add(new StudentData(103, "Rahul", sdf.parse("02/01/2005"), 62.0));
         student.add(new StudentData(104, "Priya", sdf.parse("12/08/2004"), 22.5));
